@@ -1,0 +1,11 @@
+ID,Make,Model,Year,Color,Price,Mileage,Fuel Type
+1,Toyota,Camry,2020,White,25000,30000,Gasoline
+2,Honda,Civic,2019,Black,22000,40000,Gasoline
+3,Ford,Mustang,2021,Red,35000,15000,Gasoline
+4,Chevrolet,Malibu,2018,Blue,18000,50000,Gasoline
+5,Tesla,Model 3,2022,White,45000,10000,Electric
+6,BMW,X5,2020,Gray,55000,25000,Gasoline
+7,Audi,A4,2019,Silver,40000,35000,Gasoline
+8,Mercedes,C-Class,2021,Black,50000,20000,Gasoline
+9,Hyundai,Elantra,2017,Blue,16000,60000,Gasoline
+10,Nissan,Altima,2019,White,20000,45000,Gasoline

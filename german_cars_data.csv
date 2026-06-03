@@ -1,0 +1,11 @@
+Brand,Model,Engine_Capacity (L),BHP,Price (USD)
+BMW,3 Series,2.0,255,42000
+BMW,5 Series,3.0,335,57000
+Audi,A4,2.0,261,43000
+Audi,A6,3.0,335,58000
+Mercedes,C-Class,2.0,255,44000
+Mercedes,E-Class,3.0,362,62000
+Volkswagen,Golf GTI,2.0,241,31000
+Volkswagen,Passat,2.0,174,27000
+Porsche,911 Carrera,3.0,379,106000
+Porsche,Panamera,2.9,325,92000

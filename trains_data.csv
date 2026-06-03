@@ -1,0 +1,11 @@
+ID,Name,Type,Year Built,Top Speed (km/h),Carriages,Power Source
+1,Shinkansen N700,Bullet Train,2007,320,16,Electric
+2,Eurostar e320,High-Speed Train,2015,320,16,Electric
+3,TGV Duplex,High-Speed Train,1996,320,8,Electric
+4,ICE 3,High-Speed Train,2000,330,8,Electric
+5,Acela Express,High-Speed Train,2000,240,8,Electric
+6,Frecciarossa 1000,High-Speed Train,2015,400,8,Electric
+7,GE AC4400CW,Freight Train,1993,120,1,Diesel
+8,Alstom Metropolis,Subway Train,2000,80,6,Electric
+9,Bombardier Talent,Regional Train,1996,160,4,Diesel/Electric
+10,Maglev Shanghai,Maglev Train,2003,431,5,Magnetic Levitation

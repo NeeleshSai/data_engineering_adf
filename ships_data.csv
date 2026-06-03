@@ -1,0 +1,11 @@
+ID,Name,Type,Year Built,Length (m),Tonnage,Fuel Type
+1,Titanic,Passenger,1912,269.1,52310,Coal
+2,Queen Mary 2,Cruise,2003,345.0,148528,Diesel
+3,USS Enterprise,Aircraft Carrier,1961,342.0,93750,Nuclear
+4,Ever Given,Cargo,2018,400.0,220940,Diesel
+5,Symphony of the Seas,Cruise,2018,362.0,228081,Diesel
+6,Bismarck,Battleship,1939,251.0,41700,Oil
+7,USS Missouri,Battleship,1944,270.0,58600,Oil
+8,Yamato,Battleship,1941,263.0,72810,Oil
+9,HMS Victory,Warship,1765,69.0,2142,Wind
+10,Flying Dutchman,Legendary,1600,50.0,500,Mythical
